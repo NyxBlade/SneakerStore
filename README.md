@@ -11,7 +11,6 @@ A full-stack **Sneaker E-Commerce Web Application** built using **React.js**, **
 * ✅ Add to Cart & Cart Management
 * ✅ Secure Checkout System
 * ✅ Order Placement & Order History
-* ✅ Responsive UI for all devices
 * ✅ RESTful API Integration
 * ✅ MongoDB Database for Data Storage
 
